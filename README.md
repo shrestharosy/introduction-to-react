@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Check out the slides [here](https://slides.com/rosyshrestha/introduction-to-react)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
